@@ -1,3 +1,2 @@
-file02 count==1
-
+file02 count==2
 
